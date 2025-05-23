@@ -19,8 +19,8 @@ My data science learning journey following a comprehensive Udemy course. This re
 
 To run the notebooks and scripts in this repository:
 
-- Python 3.8 or higher
-- Jupyter Notebook or JupyterLab
+- Python 3.13.1
+- Jupyter Notebook or JupyterLab or VS code
 - Git (for cloning the repository)
 
 
@@ -113,7 +113,7 @@ This project is for educational purposes. Feel free to use the code and learn fr
 - [x] Set up Python environment
 - [x] Started Udemy course
 - [x] Complete Python fundamentals section
-- [x] First data analysis project
+- [ ] First data analysis project
 - [ ] Data visualization projects
 - [ ] Machine learning basics
 - [ ] Complete course capstone project

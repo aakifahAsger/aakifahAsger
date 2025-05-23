@@ -23,27 +23,6 @@ To run the notebooks and scripts in this repository:
 - Jupyter Notebook or JupyterLab
 - Git (for cloning the repository)
 
-## 🛠️ Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/aakifahAsger/data-science-learning.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd data-science-learning
-   ```
-
-3. Install required Python packages:
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter scikit-learn
-   ```
-
-4. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
 
 ## 📁 Repository Structure
 
@@ -133,8 +112,8 @@ This project is for educational purposes. Feel free to use the code and learn fr
 
 - [x] Set up Python environment
 - [x] Started Udemy course
-- [ ] Complete Python fundamentals section
-- [ ] First data analysis project
+- [x] Complete Python fundamentals section
+- [x] First data analysis project
 - [ ] Data visualization projects
 - [ ] Machine learning basics
 - [ ] Complete course capstone project

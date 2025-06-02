@@ -1,0 +1,21 @@
+## Simple Calculator
+num1 =float(input("Enter first number: ")) 
+num2 =float(input("Enter second number: "))
+operator=input("Enter the operator(sum,difference,product,quotient):")
+
+if operator=="sum":
+    result=num1+num2
+elif operator=="difference":
+    result=num1-num2
+elif operator=="product":
+    result=num1*num2
+elif operator=="quotient":
+    result=num1/num2
+else:
+    print("invalid input")
+    result=None
+
+
+
+if result is not None:
+    print("Answer is",result)
